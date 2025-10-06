@@ -1,0 +1,35 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones de entorno
+.env
+
+# Base de datos local o de prueba
+*.db
+*.sqlite3
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de Docker (si quieres excluirlos, opcional)
+# docker-compose.yml
+# Dockerfile
