@@ -33,3 +33,5 @@ Thumbs.db
 # Archivos de Docker (si quieres excluirlos, opcional)
 # docker-compose.yml
 # Dockerfile
+#seguridad miguel 
+.env
